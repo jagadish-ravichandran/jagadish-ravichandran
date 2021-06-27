@@ -1,6 +1,5 @@
 
-Don't be good, be great
-
+I'm a student
 <!---
 jagadish-ravichandran/jagadish-ravichandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
